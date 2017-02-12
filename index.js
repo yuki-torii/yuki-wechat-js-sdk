@@ -1,9 +1,3 @@
-// !function (a, b) {
-//     module.exports = b(a)
-// }(window,
-
-module.exports = sdk(window)
-
 function sdk (a, b) {
 
     function c(b, c, d) {
@@ -469,4 +463,6 @@ function sdk (a, b) {
             }
         }, !0), b && (a.wx = a.jWeixin = I), I
     }
-};
+}
+
+sdk(window)
