@@ -1,0 +1,19 @@
+{
+  "name": "yuki-wechat-js-sdk",
+  "version": "1.1.2",
+  "description": "⛩  yuki-wechat-js-sdk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuki-torii/yuki-wechat-js-sdk.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yuki-torii/yuki-wechat-js-sdk/issues"
+  },
+  "homepage": "https://github.com/yuki-torii/yuki-wechat-js-sdk#readme"
+}
