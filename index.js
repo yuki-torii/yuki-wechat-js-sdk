@@ -3,7 +3,7 @@
   "function" == typeof define && (define.amd || define.cmd) ? define(function() {
     return b(a)
   }) : b(a, !0)
-}(this, function(a, b) {
+}(window, function(a, b) {
   function c(b, c, d) {
     a.WeixinJSBridge ? WeixinJSBridge.invoke(b, e(c), function(a) {
       h(b, a, d)
