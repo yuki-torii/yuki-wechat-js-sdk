@@ -1,6 +1,6 @@
 {
   "name": "yuki-wechat-js-sdk",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "⛩  yuki-wechat-js-sdk",
   "main": "index.js",
   "scripts": {
