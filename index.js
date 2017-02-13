@@ -1,8 +1,6 @@
 // from https://res.wx.qq.com/open/js/jweixin-1.2.0.js
 ! function(a, b) {
-  "function" == typeof define && (define.amd || define.cmd) ? define(function() {
-    return b(a)
-  }) : b(a, !0)
+  b(a, !0)
 }(window, function(a, b) {
   function c(b, c, d) {
     a.WeixinJSBridge ? WeixinJSBridge.invoke(b, e(c), function(a) {
